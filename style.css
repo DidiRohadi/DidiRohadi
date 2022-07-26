@@ -1,0 +1,13 @@
+.jumbotron {
+  /* min-height: 2000px; */
+
+  padding-top: 7rem;
+  background-color: #82d4d4;
+}
+
+#product {
+  background-color: #82d4d4;
+}
+section {
+  padding-top: 5rem;
+}
